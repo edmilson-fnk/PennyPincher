@@ -2,26 +2,26 @@ package data;
 
 import java.math.BigDecimal;
 
-public class Tuple implements Comparable<Tuple> {
+public class CardInfo implements Comparable<CardInfo> {
 
-	private String card;
-	private int quantity;
 	private BigDecimal value;
+	private String cardName;
 	private boolean hasCard;
+	private int quantity;
 	
-	public Tuple(String card, int quantity, BigDecimal price) {
-		this.card = card;
+	public CardInfo(String card, int quantity, BigDecimal price) {
+		this.cardName = card;
 		this.value = price;
 		this.quantity = quantity;
 		this.hasCard = price == BigDecimal.ZERO ? false : true;
 	}
 
-	public String getCard() {
-		return card;
+	public String getCardName() {
+		return cardName;
 	}
 
-	public void setCard(String card) {
-		this.card = card;
+	public void setCardName(String cardName) {
+		this.cardName = cardName;
 	}
 
 	public int getQuantity() {
@@ -38,20 +38,20 @@ public class Tuple implements Comparable<Tuple> {
 
 	public void setValue(BigDecimal value) {
 		this.value = value;
-		this.hasCard = value == BigDecimal.ZERO ? false : true;
+		this.hasCard = value != null && value.compareTo(BigDecimal.ZERO) == 0 ? false : true;
 	}
 
-	public boolean isHasCard() {
+	public boolean hasCard() {
 		return hasCard;
 	}
 
 	@Override
-	public int compareTo(Tuple t) {
+	public int compareTo(CardInfo t) {
 		return this.toString().compareTo(t.toString());
 	}
 	
 	@Override
 	public String toString() {
-		return this.card + " - " + this.quantity;
+		return this.cardName + " - " + this.quantity;
 	}
 }

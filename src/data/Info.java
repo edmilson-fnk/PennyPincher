@@ -5,26 +5,26 @@ import java.util.TreeSet;
 
 public class Info {
 	
-	private TreeSet<Tuple> list;
+	private TreeSet<CardInfo> list;
 	private BigDecimal value;
 
 	public Info() {
-		this.list = new TreeSet<Tuple>();
+		this.list = new TreeSet<CardInfo>();
 		this.value = BigDecimal.ZERO;
 	}
 	
-	public TreeSet<Tuple> getList() {
+	public TreeSet<CardInfo> getList() {
 		return list;
 	}
 
-	public void setList(TreeSet<Tuple> list) {
+	public void setList(TreeSet<CardInfo> list) {
 		this.list = list;
 	}
 
-	public void addLowest(Tuple t) {
-		Tuple card = null;
-		for (Tuple e : list) {
-			if (e.getCard().equalsIgnoreCase(t.getCard())) {
+	public void addLowest(CardInfo t) {
+		CardInfo card = null;
+		for (CardInfo e : list) {
+			if (e.getCardName().equalsIgnoreCase(t.getCardName())) {
 				card = e;
 				break;
 			}
@@ -41,8 +41,8 @@ public class Info {
 	}
 	
 	public boolean containsCard(String card) {
-		for (Tuple t : list) {
-			if (t.getCard().equalsIgnoreCase(card)) {
+		for (CardInfo t : list) {
+			if (t.getCardName().equalsIgnoreCase(card)) {
 				return true;
 			}
 		}
