@@ -1,7 +1,7 @@
 # PennyPincher
 Trying to continue with my hobby while saving some money 
 
-This project search for some cards at [ligamagic.com](www.ligamagic.com), a website that gathers information from MtG stores all over Brazil. The intent is to list all the cards from *cards.txt* in a result sheet with it's price per store. Once this is finished, the owner can manipulate the sheet the way wanted and decide where to buy everything.
+This project search for some cards at [ligamagic.com](http://www.ligamagic.com), a website that gathers information from MtG stores all over Brazil. The intent is to list all the cards from *cards.txt* in a result sheet with it's price per store. Once this is finished, the owner can manipulate the sheet the way wanted and decide where to buy everything.
 
 # What cards do you want to buy?
 
