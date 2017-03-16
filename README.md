@@ -7,11 +7,11 @@ This project search for some cards at [ligamagic.com](www.ligamagic.com), a webs
 
 First, fill the *cards.txt* with all the cards you want, using the following structure:
 
-'''
+```
 1 Mox Opal
 2 Arcbound Ravager
 1 Etched Champion
-'''
+```
 
 Then run the Bringer.main and see the result sheet at *sheet.csv* 
 
