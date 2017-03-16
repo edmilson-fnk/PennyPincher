@@ -11,8 +11,8 @@ import inout.Parser;
 
 public class Bringer {
 
-	private static final String REPORT = "/home/ihealth/Downloads/planilha.csv";
-	private static final String CARDS_FILE = "/home/ihealth/Downloads/cards.txt";
+	private static final String REPORT = "sheet.csv";
+	private static final String CARDS_FILE = "cards.txt";
 
 	public static void main(String[] args) throws Exception {
 		Collection<CardInfo> cards = Parser.createListFromFile(CARDS_FILE);
