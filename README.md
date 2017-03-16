@@ -22,5 +22,5 @@ Stuff that is still to be done
 * Choose between *foil* and *non-foil* cards.
 * Choose the set for the card.
 * Define a maximum value per card.
-* Check for availability of the card before putting it in the list. Sometimes ther's just not enough cards.
-* 
+* Check for availability of the card before putting it in the list. Sometimes there's just not enough cards in the same store.
+* Increase the tool so that it can also search on auctions from the same user. 
