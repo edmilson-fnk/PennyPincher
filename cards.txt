@@ -7,7 +7,6 @@
 1 Groundswell
 1 Colossal Might
 
-
 1 Fury of the Horde
 1 Relentless Assault
 1 Gratuitous Violence
@@ -46,6 +45,122 @@
 1 Cloudpost
 1 Glimmerpost
 1 Thespian's Stage
+
+=== Karador
+Accorder Paladin
+Agadeem Occultist
+Agent of Masks
+Anafenza, the Foremost
+Attended Knight
+Auramancer
+Auriok Champion
+Avacyn's Pilgrim
+Azusa, Lost but Seeking
+Banisher Priest
+Big Game Hunter
+Black Knight
+Blade Splicer
+Blind Zealot
+Bloodsoaked Champion
+Borderland Ranger
+Cartel Aristocrat
+Cartographer
+Chainer, Dementia Master
+Champion of Lambholt
+Champion of the Parish
+Children of Korlis
+Cho-Manno, Revolutionary
+Conclave Phalanx
+Courageous Outrider
+Daghatar the Adamant
+Dark Confidant
+Deathcap Cultivator
+Disciple of Bolas
+Doomed Necromancer
+Doomed Traveler
+Dosan the Falling Leaf
+Dragonscale General
+Druid Lyrist
+Duskwatch Recruiter
+Elder Cathar
+Elder of Laurels
+Elite Scaleguard
+Emrakul's Evangel
+Endrek Sahr, Master Breeder
+Eternal Witness
+Experiment One
+Fa'adiyah Seer
+Fiend Hunter
+Frontline Medic
+Geist-Honored Monk
+Gigantomancer
+Glint-Sleeve Siphoner
+Glowrider
+Golgari Thug
+Grand Abolisher
+Grim Flayer
+Grim Haruspex
+Hanweir Militia Captain
+Harvester Druid
+Hero of Bladehold
+Hero of Goma Fada
+Heron's Grace Champion
+Hidden Herbalists
+Imposing Sovereign
+Juniper Order Ranger
+Kambal, Consul of Allocation
+Kessig Cagebreakers
+Knight of the Reliquary
+Kytheon, Hero of Akros
+Lantern Scout
+Ley Druid
+Liliana, Heretical Healer
+Lone Rider
+Loyal Sentry
+Magus of the Disk
+Makindi Patrol
+Mangara of Corondor
+Mardu Strike Leader
+Mausoleum Guard
+Mentor of the Meek
+Mikaeus, the Lunarch
+Mystic Crusader
+Mystic Enforcer
+Nekrataal
+Odric, Master Tactician
+Orzhov Advokist
+Orzhov Pontiff
+Ranger of Eos
+Renegade Rallier
+Reyhan, Last of the Abzan
+Saffi Eriksdotter
+Sage of Ancient Lore
+Selfless Squire
+Serra Ascendant
+Shaman of Forgotten Ways
+Skirsdag High Priest
+Somberwald Sage
+Steward of Valeron
+Surrak, the Hunt Caller
+Sylvok Explorer
+Teysa, Envoy of Ghosts
+Thalia, Guardian of Thraben
+Thalia, Heretic Cathar
+Thalia's Lancers
+Thalia's Lieutenant
+Thraben Inspector
+Tireless Tracker
+Veteran Explorer
+Warden of the First Tree
+Weathered Wayfarer
+Whisperer of the Wilds
+Wild Beastmaster
+Xathrid Necromancer
+Yisan, the Wanderer Bard
+Zulaport Cutthroat
+
+
+
 
 === Liliana
 1 Liliana, Heretical Healer
