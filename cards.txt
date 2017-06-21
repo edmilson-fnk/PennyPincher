@@ -1,11 +1,6 @@
-1 Wirewood Lodge
 1 Nettle Sentinel
 1 Worldly Tutor
-1 Ulvenwald Hydra
-1 Collective Unconscious
-1 Benefactor's Draught
 
 1 Bedlam
 1 Tireless Tracker
-1 Ulvenwald Hydra
-1 Worldly Tutor
+
