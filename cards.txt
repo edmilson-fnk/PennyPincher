@@ -1,3 +1,62 @@
-1 Bedlam
-1 Tireless Tracker
-1 Desert of the Indomitable
+Ascendant Evincar
+Asylum Visitor
+Bishop of the bloodstained
+Blood Artist
+Blood Bairn
+Blood Seeker
+Bloodcrazed Paladin
+Bloodghast
+Bloodhusk Ritualist
+Bloodline Keeper
+Bloodline Necromancer
+Bloodlord of Vaasgoth
+Bloodthrone Vampire
+Captivating Vampire
+Champion of Dusk
+Dark Impostor
+Deathless Ancient
+Defiant Bloodlord
+Drana, Liberator of Malakir
+Driver of the dead
+Dusk Legion Zealot
+Falkenrath Noble
+Gatekeeper of Malakir
+Gifted Aetherborn
+Guul Draz Vampire
+Indulgent Aristocrat
+Kalastria Healer
+Kalastria Highborn
+Kalitas, Traitor of Ghet
+Kheru Mind-Eater
+Malakir Bloodwitch
+Mirri the Cursed
+Nirkana Revenant
+Patron of the Vein
+Sanctum Seeker
+Sangromancer
+Skeletal Vampire
+Stromkirk Condemned
+Twilight Prophet
+Vampire Aristocrat
+Vampire Cutthroat
+Vampire Hexmage
+Vampire Nighthawk
+Vampire Nocturnus
+Vicious Conquistador
+Viscera Seer
+Voldaren Pariah
+Voracious Vampire
+Yahenni, Undying Partisan
+
+New Blood
+Vampiric Tutor
+Demonic Tutor
+Skeletal Scrying
+Blood Tribute
+Damnable Pact
+
+
+Sol Ring
+Vanquisher's Banner
+SkullClamp
+Urza's Incubator
