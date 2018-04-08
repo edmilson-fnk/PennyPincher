@@ -32,11 +32,11 @@ public class Info {
 		
 		if (card == null) {
 			this.list.add(t);
-			this.value = this.value.add(t.getValue());
-		} else if (t.getValue().compareTo(card.getValue()) < 0) {
-			this.value = this.value.subtract(card.getValue());
-			card.setValue(t.getValue());
-			this.value = this.value.add(t.getValue());
+			this.value = this.value.add(t.getPrice());
+		} else if (t.getPrice().compareTo(card.getPrice()) < 0) {
+			this.value = this.value.subtract(card.getPrice());
+			card.setPrice(t.getPrice());
+			this.value = this.value.add(t.getPrice());
 		}
 	}
 	

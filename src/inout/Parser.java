@@ -61,7 +61,7 @@ public class Parser {
 			BigDecimal v = BigDecimal.ZERO;
 			
 			for (CardInfo t : map.get(store).getList()) {
-				BigDecimal total = t.getValue().multiply(new BigDecimal(t.getQuantity()));
+				BigDecimal total = t.getPrice().multiply(new BigDecimal(t.getQuantity()));
 				sb.append(total + ";");
 				v = v.add(total);
 			}

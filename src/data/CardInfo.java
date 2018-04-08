@@ -4,14 +4,16 @@ import java.math.BigDecimal;
 
 public class CardInfo implements Comparable<CardInfo> {
 
-	private BigDecimal value;
+	private BigDecimal price;
 	private String cardName;
-	private boolean hasCard;
 	private int quantity;
+	private boolean hasCard;
+	
+	private String option;
 	
 	public CardInfo(String card, int quantity, BigDecimal price) {
 		this.cardName = card;
-		this.value = price;
+		this.price = price;
 		this.quantity = quantity;
 		this.hasCard = price == BigDecimal.ZERO ? false : true;
 	}
@@ -32,17 +34,25 @@ public class CardInfo implements Comparable<CardInfo> {
 		this.quantity = quantity;
 	}
 
-	public BigDecimal getValue() {
-		return value;
+	public BigDecimal getPrice() {
+		return price;
 	}
 
-	public void setValue(BigDecimal value) {
-		this.value = value;
-		this.hasCard = value != null && value.compareTo(BigDecimal.ZERO) == 0 ? false : true;
+	public void setPrice(BigDecimal price) {
+		this.price = price;
+		this.hasCard = price != null && price.compareTo(BigDecimal.ZERO) == 0 ? false : true;
 	}
 
 	public boolean hasCard() {
 		return hasCard;
+	}
+
+	public String getOption() {
+		return option;
+	}
+
+	public void setOption(String option) {
+		this.option = option;
 	}
 
 	@Override
