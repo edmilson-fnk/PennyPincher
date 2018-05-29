@@ -1,120 +1,12 @@
 1 [Foil] Throne of the God-Pharaoh
 
-1 Scorched Ruins
-1 Servo Schematic
-1 Smuggler's Copter
-1 Tamiyo's Journal
-
-1 Ascendant Evincar
-1 Asylum Visitor
-1 Bishop of the bloodstained
-1 Blood Artist
-1 Blood Bairn
-1 Blood Seeker
-1 Bloodcrazed Paladin
-1 Bloodghast
-1 Bloodhusk Ritualist
-1 Bloodline Keeper
-1 Bloodline Necromancer
-1 Bloodlord of Vaasgoth
-1 Bloodthrone Vampire
-1 Captivating Vampire
-1 Champion of Dusk
-1 Dark Impostor
-1 Deathless Ancient
-1 Defiant Bloodlord
-1 Drana, Liberator of Malakir
-1 Driver of the dead
-1 Dusk Legion Zealot
-1 Falkenrath Noble
-1 Gatekeeper of Malakir
-1 Gifted Aetherborn
-1 Guul Draz Vampire
-1 Indulgent Aristocrat
-1 Kalastria Healer
-1 Kalastria Highborn
-1 Kalitas, Traitor of Ghet
-1 Kheru Mind-Eater
-1 Malakir Bloodwitch
-1 Mirri the Cursed
-1 Nirkana Revenant
-1 Patron of the Vein
-1 Sanctum Seeker
-1 Sangromancer
-1 Skeletal Vampire
-1 Stromkirk Condemned
-1 Twilight Prophet
-1 Vampire Aristocrat
-1 Vampire Cutthroat
-1 Vampire Hexmage
-1 Vampire Nighthawk
-1 Vampire Nocturnus
-1 Vicious Conquistador
-1 Viscera Seer
-1 Voldaren Pariah
-1 Voracious Vampire
-1 Yahenni, Undying Partisan
-
-1 New Blood
-1 Vampiric Tutor
-1 Demonic Tutor
-1 Skeletal Scrying
-1 Blood Tribute
-1 Damnable Pact
-
-1 Sol Ring
-1 Vanquisher's Banner
-1 SkullClamp
-1 Urza's Incubator
+1 Nacatl War-Pride
+1 Cyclops Gladiator
+1 Blood-Chin Rager
+1 Rally the Horde
+1 Aether Hub
+1 Reflecting Pool
+1 Cascading Cataracts
+1 Samut, Voice of Dissent
 
 
-1 Ob Nixilis of the Black Oath
-
-1 Night of Souls' Betrayal
-1 Ad Nauseam
-1 Dusk Legion Zealot
-1 Twilight Prophet
-1 Cabal Ritual
-1 Dark Ritual
-1 Yawgmoth's Will
-1 Toxic Deluge
-1 Dark Petition
-1 Vampiric Tutor
-1 Demonic Tutor
-1 Dark Confidant
-1 Razaketh, the Foulblooded
-1 Entomb
-1 Culling the Weak
-1 Night's Whisper
-1 Imperial Seal
-1 Tendrils of Agony
-1 Phyrexian Arena
-1 Promise of Power
-1 Abyssal Persecutor
-1 Jet Medallion
-1 Ob Nixilis, Unshackled
-1 Sudden Spoiling
-1 Grave Titan
-1 Disciple of Bolas
-1 Rune-Scarred Demon
-1 Erebos, God of the Dead
-1 Vampire Nighthawk
-1 Noxious Gearhulk
-1 Avatar of Woe
-1 Tragic Slip
-1 Wretched Confluence
-1 Dismember
-1 Dread Return
-1 Syphon Mind
-1 Beseech the Queen
-1 Bitterblossom
-1 Read the Bones
-1 Sign in Blood
-1 Gray Merchant of Asphodel
-1 Kokusho, the Evening Star
-1 Greed
-1 Demonlord Belzenlok
-1 Street Wraith
-1 Dark Bargain
-1 Settle the Score
-1 
