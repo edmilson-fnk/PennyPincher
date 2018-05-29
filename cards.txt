@@ -8,5 +8,10 @@
 1 Reflecting Pool
 1 Cascading Cataracts
 1 Samut, Voice of Dissent
-
+1 Fellwar Stone
+1 Grim Flayer
+1 Wild Nacatl
+1 Duskwatch Recruiter
+1 Ancient Ziggurat
+1 Iroas, God of Victory
 
